@@ -385,37 +385,37 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="property-single.html">206 Mount
-                          <br /> Olive Road Two</a>
+                        <!-- <a href="property-single.html">206 Mount
+                          <br /> Olive Road Two</a> -->
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <!-- <span class="price-a">rent | $ 12.000</span> -->
                       </div>
-                      <a href="#" class="link-a">Click here to view
+                      <!-- <a href="#" class="link-a">Click here to view -->
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
                     <div class="card-footer-a">
                       <ul class="card-info d-flex justify-content-around">
                         <li>
-                          <h4 class="card-info-title">Area</h4>
-                          <span>340m
+                          <!-- <h4 class="card-info-title">Area</h4> -->
+                          <!-- <span>340m
                             <sup>2</sup>
-                          </span>
+                          </span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Beds</h4>
-                          <span>2</span>
+                          <!-- <h4 class="card-info-title">Beds</h4>
+                          <span>2</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Baths</h4>
-                          <span>4</span>
+                          <!-- <h4 class="card-info-title">Baths</h4>
+                          <span>4</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Garages</h4>
-                          <span>1</span>
+                          <!-- <h4 class="card-info-title">Garages</h4>
+                          <span>1</span> -->
                         </li>
                       </ul>
                     </div>
@@ -433,37 +433,37 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="property-single.html">157 West
-                          <br /> Central Park</a>
+                        <!-- <a href="property-single.html">157 West
+                          <br /> Central Park</a> -->
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <!-- <span class="price-a">rent | $ 12.000</span> -->
                       </div>
-                      <a href="property-single.html" class="link-a">Click here to view
+                      <!-- <a href="property-single.html" class="link-a">Click here to view -->
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
                     <div class="card-footer-a">
                       <ul class="card-info d-flex justify-content-around">
                         <li>
-                          <h4 class="card-info-title">Area</h4>
-                          <span>340m
-                            <sup>2</sup>
+                          <!-- <h4 class="card-info-title">Area</h4>
+                          <span>340m -->
+                            <!-- <sup>2</sup> -->
                           </span>
                         </li>
                         <li>
-                          <h4 class="card-info-title">Beds</h4>
-                          <span>2</span>
+                          <!-- <h4 class="card-info-title">Beds</h4>
+                          <span>2</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Baths</h4>
-                          <span>4</span>
+                          <!-- <h4 class="card-info-title">Baths</h4>
+                          <span>4</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Garages</h4>
-                          <span>1</span>
+                          <!-- <h4 class="card-info-title">Garages</h4>
+                          <span>1</span> -->
                         </li>
                       </ul>
                     </div>
@@ -481,37 +481,37 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="property-single.html">245 Azabu
-                          <br /> Nishi Park let</a>
+                        <!-- <a href="property-single.html">245 Azabu
+                          <br /> Nishi Park let</a> -->
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <!-- <span class="price-a">rent | $ 12.000</span> -->
                       </div>
-                      <a href="property-single.html" class="link-a">Click here to view
+                      <!-- <a href="property-single.html" class="link-a">Click here to view -->
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
                     <div class="card-footer-a">
                       <ul class="card-info d-flex justify-content-around">
                         <li>
-                          <h4 class="card-info-title">Area</h4>
+                          <!-- <h4 class="card-info-title">Area</h4>
                           <span>340m
                             <sup>2</sup>
-                          </span>
+                          </span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Beds</h4>
-                          <span>2</span>
+                          <!-- <h4 class="card-info-title">Beds</h4>
+                          <span>2</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Baths</h4>
-                          <span>4</span>
+                          <!-- <h4 class="card-info-title">Baths</h4>
+                          <span>4</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Garages</h4>
-                          <span>1</span>
+                          <!-- <h4 class="card-info-title">Garages</h4>
+                          <span>1</span> -->
                         </li>
                       </ul>
                     </div>
@@ -529,37 +529,37 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="property-single.html">204 Montal
-                          <br /> South Bela Two</a>
+                        <!-- <a href="property-single.html">204 Montal
+                          <br /> South Bela Two</a> -->
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <!-- <span class="price-a">rent | $ 12.000</span> -->
                       </div>
-                      <a href="property-single.html" class="link-a">Click here to view
+                      <!-- <a href="property-single.html" class="link-a">Click here to view -->
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
                     <div class="card-footer-a">
                       <ul class="card-info d-flex justify-content-around">
                         <li>
-                          <h4 class="card-info-title">Area</h4>
+                          <!-- <h4 class="card-info-title">Area</h4>
                           <span>340m
                             <sup>2</sup>
-                          </span>
+                          </span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Beds</h4>
-                          <span>2</span>
+                          <!-- <h4 class="card-info-title">Beds</h4>
+                          <span>2</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Baths</h4>
-                          <span>4</span>
+                          <!-- <h4 class="card-info-title">Baths</h4>
+                          <span>4</span> -->
                         </li>
                         <li>
-                          <h4 class="card-info-title">Garages</h4>
-                          <span>1</span>
+                          <!-- <h4 class="card-info-title">Garages</h4>
+                          <span>1</span> -->
                         </li>
                       </ul>
                     </div>
@@ -793,16 +793,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">House</a>
+                      <!-- <a href="#" class="category-b">House</a> -->
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="blog-single.html">House is comming
-                          <br> new</a>
+                        <!-- <a href="blog-single.html">House is comming
+                          <br> new</a> -->
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <!-- <span class="date-b">18 Sep. 2017</span> -->
                     </div>
                   </div>
                 </div>
@@ -817,16 +817,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">Travel</a>
+                      <!-- <a href="#" class="category-b">Travel</a> -->
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="blog-single.html">Travel is comming
-                          <br> new</a>
+                        <!-- <a href="blog-single.html">Travel is comming
+                          <br> new</a> -->
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <!-- <span class="date-b">18 Sep. 2017</span> -->
                     </div>
                   </div>
                 </div>
@@ -841,16 +841,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">Park</a>
+                      <!-- <a href="#" class="category-b">Park</a> -->
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="blog-single.html">Park is comming
-                          <br> new</a>
+                        <!-- <a href="blog-single.html">Park is comming
+                          <br> new</a> -->
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <!-- <span class="date-b">18 Sep. 2017</span> -->
                     </div>
                   </div>
                 </div>
@@ -865,16 +865,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">Travel</a>
+                      <!-- <a href="#" class="category-b">Travel</a> -->
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="#">Travel is comming
-                          <br> new</a>
+                        <!-- <a href="#">Travel is comming
+                          <br> new</a> -->
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <!-- <span class="date-b">18 Sep. 2017</span> -->
                     </div>
                   </div>
                 </div>
